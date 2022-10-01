@@ -1,0 +1,22 @@
+{
+  "name": "fullstacknetangular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwellingtonmoura/CursoFullStackNetAngular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwellingtonmoura/CursoFullStackNetAngular/issues"
+  },
+  "homepage": "https://github.com/iwellingtonmoura/CursoFullStackNetAngular#readme",
+  "dependencies": {
+    "ng": "^0.0.0"
+  }
+}
